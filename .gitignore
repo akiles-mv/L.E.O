@@ -1,0 +1,16 @@
+# Dependencias de Node — pesan mucho, se reinstalan con "npm install"
+node_modules/
+
+# Sesión de WhatsApp — contiene tus credenciales de login
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Órdenes del día — datos personales de quién pidió qué
+data/
+
+# Variables de entorno — aquí irán contraseñas/tokens en el futuro
+.env
+
+# Basura de sistema operativo
+.DS_Store
+Thumbs.db
