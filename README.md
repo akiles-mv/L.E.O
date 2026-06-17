@@ -57,7 +57,7 @@ node index.js
 
 # CONGFIGURACION
 
-$Edita config.js con tus datos:
+Edita config.js con tus datos
 
     module.exports = { 
         restaurante: {
@@ -74,3 +74,25 @@ $Edita config.js con tus datos:
         },
     }
 
+# ESTADO DEL PROYECTO
+
+✅ Concepto y flujo definidos
+✅ Stack tecnológico decidido
+✅ Estructura del proyecto creada
+🔳 Lógica del bot implementada
+🔳 Pruebas de conexión con WhatsApp
+🔳 Pruebas end-to-end del flujo completo
+🔳 Despliegue en produccion
+
+
+# ¿POR QUÉ L.E.O?
+
+Este proyecto nació de un problema real: cada día alguien tenía que coordinar manualmente
+el pedido de comida para toda la oficina - escribirle al restaurante, esperar el menú, 
+preguntar a cada persona qué quería, y enviar la orden consolidad. L.E.O automatiza ese proceso.
+
+
+
+
+
+Desarrollado por @akiles-mv
